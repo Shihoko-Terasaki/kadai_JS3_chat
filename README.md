@@ -5,7 +5,7 @@
 -Firebase + JS でチャットアプリを作成
 
 ## ③DEMO
-（任意）デプロイしている場合はURLを記入
+https://shihoko-terasaki.github.io/kadai_JS4_chat/
 
 ## ④工夫した点・こだわった点
 -基本に忠実に作成。
